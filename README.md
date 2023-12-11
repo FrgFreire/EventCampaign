@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, start the pocketbase database
 ```bash
 nextpocket $ ./pocketbase serve
-
+```
 
 Second, run the development server:
 
